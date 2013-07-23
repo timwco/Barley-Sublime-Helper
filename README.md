@@ -8,6 +8,7 @@ A collection of basic HTML snippets and completions for use when creating Barley
 1. Download Package
 2. Open ST2 and navigate to Preferences - Browse Packages
 3. Put folder in there
+4. Restart ST2 (shouldn't need to... but doesn't hurt)
 
 ## Expansions
 
