@@ -18,8 +18,10 @@ A collection of basic HTML snippets and completions for use when creating Barley
 
 ## More Info
 
-[Barley]: http://www.getbarley.com
-[Barley Docs]: http://getbarley.com/docs/templates
-[Plain]: http://plainmade.com
+[Barley](http://getbarley.com/)
+
+[Barley Docs](http://getbarley.com/docs/templates)
+
+[Plain](http://plainmade.com/)
 
 #### More Coming Soon...
