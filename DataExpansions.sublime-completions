@@ -1,0 +1,10 @@
+{
+  "scope": "text.html - source - meta.tag, punctuation.definition.tag.begin",
+
+  "completions":
+  [
+    {"trigger": "data-barley-navigation", "contents": "data-barley-navigation=\"$1\""},
+    {"trigger": "data-barley", "contents": "data-barley=\"$1\""},
+    {"trigger": "data-barley-editor", "contents": "data-barley-editor=\"$1\""}
+  ]
+}

@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<ul data-barley-navigation="${1:left}">
+    <!-- barleynav -->
+    <li><a href="$2">$3</a></li>
+    <!-- endbarleynav -->
+</ul>
+]]></content>
+    <tabTrigger>barleynav</tabTrigger>
+    <scope>text.html</scope>
+    <description>creates a nav with barley attributes added</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<${1:h2} data-barley="$3" data-barley-editor="${4:mini}">$0</${1:h2}>
+]]></content>
+    <tabTrigger>barleyinline</tabTrigger>
+    <scope>text.html</scope>
+    <description>creates a simple element with barley attributes added</description>
+</snippet>

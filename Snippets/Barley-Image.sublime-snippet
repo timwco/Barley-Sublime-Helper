@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<span data-barley="$1" data-barley-editor="${2:image}"><img src="$3" /></span>
+]]></content>
+    <tabTrigger>barleyimage</tabTrigger>
+    <scope>text.html</scope>
+    <description>creates a image with barley attributes added</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<${1:div} class="$2" data-barley="$3" data-barley-editor="${4:advanced}">
+    $0
+</${1:div}>
+]]></content>
+    <tabTrigger>barleyblock</tabTrigger>
+    <scope>text.html</scope>
+    <description>creates a div block with barley attributes added</description>
+</snippet>
